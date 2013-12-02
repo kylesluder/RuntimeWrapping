@@ -1,5 +1,4 @@
 RuntimeWrapping
-<<<<<<< HEAD
 ===
 
 This project demonstrates how to wrap a C function -- specifically, `printf(3)`.
@@ -13,8 +12,3 @@ Here's how it works:
 3. `WrappedLibc`'s `OTHER_LDFLAGS` includes `-sub_library libSystem`, which makes `libWrappedLibc.dylib` reexport all the symbols from `libSystem` (to which `libc` is an alias on OS X).
 
 4. `WrapperTester` links against `libWrappedLibc.dylib`. It does *not* link against `libSystem` --- `LINK_WITH_STANDARD_LIBRARIES` is set to `NO`. This causes it to look up all standard library functions as indirect symbols via `libWrappedLibc`.
-=======
-===============
-
-A sample project showing how to replace printf at link time.
->>>>>>> 8430b8fbaab83683465db02312fad91d390bd07f
