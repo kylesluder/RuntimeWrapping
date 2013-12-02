@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D157DAC6-7963-4473-83CA-A54BFF83841F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RuntimeWrapping</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C1F2243-83CA-4A6C-AA34-920A0A908485</key>
+		<string>svn+ssh://source.omnigroup.com/Source/svn/Omni/trunk/Staff/kyle/Experiments</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RuntimeWrapping/RuntimeWrapping/RuntimeWrapping.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C1F2243-83CA-4A6C-AA34-920A0A908485</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>0C1F2243-83CA-4A6C-AA34-920A0A908485</key>
+		<string>svn+ssh://source.omnigroup.com/Source/svn/Omni</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://source.omnigroup.com/Source/svn/Omni/trunk/Staff/kyle/Experiments/RuntimeWrapping/RuntimeWrapping/RuntimeWrapping.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C1F2243-83CA-4A6C-AA34-920A0A908485</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C1F2243-83CA-4A6C-AA34-920A0A908485</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Experiments</string>
+		</dict>
+	</array>
+</dict>
+</plist>
